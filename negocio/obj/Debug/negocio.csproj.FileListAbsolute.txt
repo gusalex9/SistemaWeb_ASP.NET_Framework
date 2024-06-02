@@ -1,0 +1,9 @@
+C:\Users\ASUS\Desktop\Proyectos\Practicas-Ado-Net-main\negocio\bin\Debug\negocio.dll
+C:\Users\ASUS\Desktop\Proyectos\Practicas-Ado-Net-main\negocio\bin\Debug\negocio.pdb
+C:\Users\ASUS\Desktop\Proyectos\Practicas-Ado-Net-main\negocio\bin\Debug\dominio.dll
+C:\Users\ASUS\Desktop\Proyectos\Practicas-Ado-Net-main\negocio\bin\Debug\dominio.pdb
+C:\Users\ASUS\Desktop\Proyectos\Practicas-Ado-Net-main\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Proyectos\Practicas-Ado-Net-main\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Proyectos\Practicas-Ado-Net-main\negocio\obj\Debug\negocio.csproj.Up2Date
+C:\Users\ASUS\Desktop\Proyectos\Practicas-Ado-Net-main\negocio\obj\Debug\negocio.dll
+C:\Users\ASUS\Desktop\Proyectos\Practicas-Ado-Net-main\negocio\obj\Debug\negocio.pdb

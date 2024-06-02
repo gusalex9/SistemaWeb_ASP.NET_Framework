@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\Proyectos\Practicas-Ado-Net-main\dominio\bin\Debug\dominio.dll
+C:\Users\ASUS\Desktop\Proyectos\Practicas-Ado-Net-main\dominio\bin\Debug\dominio.pdb
+C:\Users\ASUS\Desktop\Proyectos\Practicas-Ado-Net-main\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Proyectos\Practicas-Ado-Net-main\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Proyectos\Practicas-Ado-Net-main\dominio\obj\Debug\dominio.dll
+C:\Users\ASUS\Desktop\Proyectos\Practicas-Ado-Net-main\dominio\obj\Debug\dominio.pdb
